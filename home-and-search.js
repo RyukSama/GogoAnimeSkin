@@ -223,7 +223,7 @@ button:hover {
     nav.appendChild(prv);
   }
 
-  if (cards.length == 20) {
+  if (cards.length >= 20) {
     var nxt = document.createElement("button");
     nxt.id = "nxt";
     nxt.innerText = "NEXT";
