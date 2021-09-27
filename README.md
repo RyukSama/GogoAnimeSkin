@@ -9,7 +9,7 @@ A netflix-like skin for gogoanime.pe
 - Press **Space** on the episode page to automatically play and full screen
 - Next episode button automatically pops up in the final 30s
 
-# How to install
+## How to install
 
 1. Install chrome / Edge extensions:
 > - [AdBlock for Chrome](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) / [AdBlock for Edge](https://microsoftedge.microsoft.com/addons/detail/adblock-complete/fbobegkkdmmcnmoplkgdmfhdlkjfelnb?hl=en-US)
